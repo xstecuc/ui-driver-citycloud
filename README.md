@@ -1,5 +1,5 @@
-# ui-driver-skel
-Skeleton Rancher UI driver for custom docker-machine drivers
+# ui-driver-cc
+CC Rancher UI driver for custom docker-machine drivers
 
 **Note: The Master branch works with Rancher 2.x+, if you are building a custom driver for Rancher 1.x use the 1.x branch**
 
