@@ -1,7 +1,7 @@
 {
   "name": "ui-driver-citycloud",
   "version": "0.0.2",
-  "description": "CC Rancher UI driver for custom docker-machine drivers",
+  "description": "Rancher UI driver for the City Cloud docker-machine driver",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/xstecuc/ui-driver-citycloud.git"
